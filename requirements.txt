@@ -1,2 +1,5 @@
 ipykernel
 tiktoken
+torch 
+torchvision 
+torchaudio
